@@ -6,3 +6,4 @@ git branch -M main - for creating a main branch
 git remote add origin https://github.com/Minskoleopc/tixdo4.git
 git push -u origin main
 git status - tells which file had changes and which are being tracked
+git diff - difference working and staging
