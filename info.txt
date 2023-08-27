@@ -1,1 +1,6 @@
-git init
+echo "# tixdo4" >> README.md
+git init - intialize the git repo
+git add . - add all the files from working directory to staging
+git commit -m "hello" - staging to local repo
+git branch -M main - for creating a main branch
+git remote add origin https://github.com/Minskoleopc/tixdo4.git
